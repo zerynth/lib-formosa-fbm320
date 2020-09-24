@@ -1,0 +1,13 @@
+---
+description: Driver for Formosa FBM320 barometer sensor
+fullname: lib.formosa.fbm320
+info:
+    chip_manufacturer: Formosa
+    chip_name: FBM320
+    name: Barometer Sensor
+    type: Sensor
+keywords:
+- formosa
+- barometer
+title: FBM320 Barometer Sensor
+...
